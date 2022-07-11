@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Rostislav Jadavan <rostislav.jadavan@avast.com>"]
 edition = "2018"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
 dns-parser = "0.8.0"
+signal-hook = "0.3.4"
+
