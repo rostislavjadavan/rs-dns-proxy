@@ -2,6 +2,8 @@
 
 DNS Proxy with packet inspection PoC.
 
+⚠️ UDP works but TCP resolution is broken. Code is work in progress so it's ugly and contains a lot of weird stuff 😶
+
 ## Test queries
 
 ```
